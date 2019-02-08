@@ -1,7 +1,7 @@
 # schoolproject
 /*
  * Sudoku game
- * the player has three 4 choice
+ * the player has four choices
  * show, swap, verify and quit
  *
  *
